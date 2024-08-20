@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-- <span style='color: DarkSlateGray;'>I go by Tad</span>
-- <span style='color: DarkSlateGray;'>Junior</span>
-- <span style='color: DarkSlateGray;'>Computer Science Major</span>
-- <span style='color: DarkSlateGray;'>Business and Data Science Minors</span>
+- **<span style='color: DarkSlateGray;'>I go by Tad</span>**
+- **<span style='color: DarkSlateGray;'>Junior</span>**
+- **<span style='color: DarkSlateGray;'>Computer Science Major</span>**
+- **<span style='color: DarkSlateGray;'>Business and Data Science Minors</span>**
