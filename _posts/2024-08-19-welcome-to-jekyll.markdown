@@ -10,4 +10,4 @@ categories: jekyll update
 - Computer Science Major
 - Business and Data Science Minor
 
-<img src="headshot.jpg"  width=50% height=50%>
+[<img src="headshot.jpg" width="250"/>](headshot.jpg)
