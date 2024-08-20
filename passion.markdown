@@ -4,5 +4,5 @@ title: Passion
 permalink: /passion/
 ---
 
-##Passion
+**Passion**
 My passion is cs
