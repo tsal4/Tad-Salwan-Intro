@@ -10,4 +10,4 @@ categories: jekyll update
 - Computer Science Major
 - Business and Data Science Minor
 
-![me](https://github.com/tsal4/Tad-Salwan-Intro/blob/gh-pages/headshot.jpg?raw=true =100x100)
+![me](https://github.com/tsal4/Tad-Salwan-Intro/blob/gh-pages/headshot.jpg?raw=true =10x10)
