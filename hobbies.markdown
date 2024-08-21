@@ -5,7 +5,7 @@ permalink: /hobbies/
 ---
 
 - **<span style='color: ForestGreen;'>Play and follow sports</span>**
-- <br>
+<br>
 ![browns](https://github.com/tsal4/Tad-Salwan-Intro/blob/gh-pages/browns.jpg?raw=true)
 
 - **<span style='color: ForestGreen;'>Spend time with family and friends</span>**
